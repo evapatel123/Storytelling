@@ -11,7 +11,7 @@ An AI-powered interactive storytelling application built with Python and Gradio.
 -  Dynamic storytelling
 -  ASL Machine Learning
 
-## 🛠 Technologies
+## Technologies
 
 - Python
 - Gradio
