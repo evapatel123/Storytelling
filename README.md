@@ -1,3 +1,38 @@
+# WellVerse
+
+An AI-powered interactive storytelling application built with Python and Gradio. WellVerse generates engaging stories through natural language interaction, allowing users to explore creative narratives powered by AI.
+
+## Features
+
+-  AI-generated stories
+-  Natural language interaction
+-  Clean Gradio interface
+-  Fast inference
+-  Dynamic storytelling
+-  ASL Machine Learning
+
+## 🛠 Technologies
+
+- Python
+- Gradio
+- TensorFlow Lite
+- Hugging Face
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+python app.py
+```
+
+## Future Improvements
+
+- Voice narration
+- Story export
+- More genres
+- Character customization
+
+## Hugging Face README
 ---
 title: WellVerse
 emoji: 🐠
